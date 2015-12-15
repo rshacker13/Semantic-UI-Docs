@@ -90,11 +90,11 @@ themes      : ['Default', 'GitHub']
         </div>
       </div>
       <div class="ui divider"></div>
-      <div class="field" placeholder="Last Name">
+      <div class="field">
         <div class="ui pointing below label">
           Please enter a value
         </div>
-        <input type="text">
+        <input type="text" placeholder="Last Name">
       </div>
       <div class="ui divider"></div>
       <div class="inline field">
